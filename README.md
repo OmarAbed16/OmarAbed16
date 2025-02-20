@@ -10,6 +10,7 @@ I specialize in **React.js** for the frontend, and **Laravel** and **PHP** for b
   ✔ **𝗔𝘃𝗲𝗿𝗮𝗴𝗲 𝗿𝗮𝘁𝗶𝗻𝗴**: **5.0/5.0**  
   ⭐ **5 years** | **Full Stack Expert**, **Software Engineer**  
   ✅ **Before the deadline** ✅ **Exceptional standards** ✅ **Unlimited revisions** ✅ **Detailed clarifications** ✅ **Thoroughly annotated code** ✅ **Practical recommendations** ✅ **Task reports included with each assignment**
+https://www.upwork.com/freelancers/~01e4636252f1186adb
 
 ### ![image](https://github.com/user-attachments/assets/e149d8fa-a072-4a1c-ab6b-35aea743b1b1)
 
